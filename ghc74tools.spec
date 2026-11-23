@@ -1,4 +1,5 @@
 %global debug_package %{nil}
+%global _find_debuginfo_opts --no-ar-files
 Summary:	Happy 1.19.5 and Alex 3.2.7.4 built by GHC 7.4.2
 Name:		ghc74tools
 Version:	1.19.5
